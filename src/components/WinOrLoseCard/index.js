@@ -23,6 +23,7 @@ const WinOrLoseCard = props => {
       <div className="imgContainer">
         <img src={imagelink} className="resultImage" alt="win or lose" />
       </div>
+      <p>Made With ❤️ By Prasad</p>
     </div>
   )
 }
