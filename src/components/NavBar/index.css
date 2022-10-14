@@ -1,0 +1,30 @@
+/* Write your code here. */
+.navBarBg {
+  /* background-image: linear-gradient(-90deg, #fdc7d4, #9796f0); */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: 'Roboto';
+  background-color: rgba(252, 246, 246, 0.3);
+}
+.topscore{
+    padding-left: 20px;
+    font-size: 20px;
+}
+.scorepara{
+    font-size: 20px;
+}
+.navItems {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-size: 10px;
+  margin: 5px;
+}
+.navImg {
+  height: 50px;
+}
+#hideScore {
+  display: none; 
+}
