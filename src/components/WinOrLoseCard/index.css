@@ -64,5 +64,7 @@
   border-radius: 10px;
   border: 0;
   height: 40px;
+  cursor:pointer;
+  outline:none;
   padding: 8px;
 }
